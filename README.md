@@ -11,7 +11,7 @@
 
 ## 依赖
 
- - [.NET 8](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
+ - [.NET 10](https://dotnet.microsoft.com/zh-cn/download/dotnet/10.0)
 
 ## 快速上手
 
